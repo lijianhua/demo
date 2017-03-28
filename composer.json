@@ -1,0 +1,14 @@
+{
+    "name": "gubler/demo",
+    "description": "demo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Li Jianhua",
+            "email": "lijianhua_oop@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
